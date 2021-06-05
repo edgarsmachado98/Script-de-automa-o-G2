@@ -7,7 +7,7 @@
  Script em construção...  
 </h4>
 
- <img alt="Logo do repositório  " src="imagem.png" width="850px"> 
+ <p align="center"><img alt="Logo do repositório  " src="imagem.png" width="850px"> 
 </h1>
 
 
@@ -19,11 +19,11 @@
 <!--te-->
 
 
-Sobre 
+# Sobre 
 Este respositorio tem como objetivo de manter organizado os passos para criação de script de automação de copia de arquivos entre servidores.
 Será utilizado comando linux , edição de texto pelo de editor nano. 
 
-tabela-de-conteudo
+# tabela-de-conteudo
 
 | Nome atividade  | Descrição     | data de postagem |
 |-----------------|---------------|------------------|
@@ -33,5 +33,5 @@ tabela-de-conteudo
 | Atividade 04    | Apresentação  | 25/06/21         |
 
 
-pre-requisitos
+# pre-requisitos
 Pode ser utilizado em sistemas operacionais linux e windows pelo terminal do linux atraves de consele ou ssh e ou no windows através do powershell ou instalação do programa GitBash para windows.
