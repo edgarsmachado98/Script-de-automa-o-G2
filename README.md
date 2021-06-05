@@ -12,7 +12,7 @@
 
 
  * [Sobre](#Sobre) 
- * [Tabela de Conteudo](#Tabela-de-conteudo)  
+ * [Tabela de Cronograma](#Tabela-de-cronograma)  
  * [Pre Requisitos](#Pre-requisitos) 
  *  * [Local files](#Local-files) 
  * [Tecnologias](#Tecnologias) 
@@ -23,7 +23,7 @@
 Este respositorio tem como objetivo de manter organizado os passos para criação de script de automação de copia de arquivos entre servidores.
 Será utilizado comando linux , edição de texto pelo de editor nano. 
 
-# Tabela-de-conteudo
+# Tabela-de-cronograma
 
 | Nome atividade  | Descrição     | data de postagem |
 |-----------------|---------------|------------------|
