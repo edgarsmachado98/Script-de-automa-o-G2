@@ -35,3 +35,9 @@ Será utilizado comando linux , edição de texto pelo de editor nano.
 
 # Pre-requisitos
 Pode ser utilizado em sistemas operacionais linux e windows pelo terminal do linux atraves de console ou ssh e ou no windows através do powershell ou instalação do programa GitBash para windows.
+
+# Tecnologias 
+Será utilizado em servidores virtualizados com sistema operacioanal Linux Centos7 , comandos de edição e visualização do linux como com "nano" , "cat" entre outros.
+
+
+
