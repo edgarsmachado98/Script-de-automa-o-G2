@@ -12,10 +12,10 @@
 
 
  * [Sobre](#Sobre) 
- * [Tabela de Conteudo](#tabela-de-conteudo)  
- * [Pre Requisitos](#pre-requisitos) 
- *  * [Local files](#local-files) 
- * [Tecnologias](#tecnologias) 
+ * [Tabela de Conteudo](#Tabela-de-conteudo)  
+ * [Pre Requisitos](#Pre-requisitos) 
+ *  * [Local files](#Local-files) 
+ * [Tecnologias](#Tecnologias) 
 <!--te-->
 
 
@@ -23,7 +23,7 @@
 Este respositorio tem como objetivo de manter organizado os passos para criação de script de automação de copia de arquivos entre servidores.
 Será utilizado comando linux , edição de texto pelo de editor nano. 
 
-# tabela-de-conteudo
+# Tabela-de-conteudo
 
 | Nome atividade  | Descrição     | data de postagem |
 |-----------------|---------------|------------------|
@@ -33,5 +33,5 @@ Será utilizado comando linux , edição de texto pelo de editor nano.
 | Atividade 04    | Apresentação  | 25/06/21         |
 
 
-# pre-requisitos
+# Pre-requisitos
 Pode ser utilizado em sistemas operacionais linux e windows pelo terminal do linux atraves de console ou ssh e ou no windows através do powershell ou instalação do programa GitBash para windows.
