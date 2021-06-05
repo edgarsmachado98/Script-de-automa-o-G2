@@ -30,7 +30,7 @@ Será utilizado comando linux , edição de texto pelo de editor nano.
 | Atividade 01    | Documentação  | 04/06/21         |
 | Atividade 02    | Criação       | 11/06/21         |
 | Atividade 03    | Testes        | 18/06/21         |
-| Atividade 04    | Apresentação  | 25/06/21         |
+| Atividade 04    | Apresentação  | 09/07/21         |
 
 
 # Pre-requisitos
